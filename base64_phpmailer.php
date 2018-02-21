@@ -10,7 +10,7 @@ License:      GPL2
 License URI:  https://www.gnu.org/licenses/gpl-2.0.html
 */
 
-namespace WordPress\LogicSpot;
+namespace LogicSpot\WordPress\Base64_PHPMailer;
 
 \add_action('phpmailer_init', __NAMESPACE__ . '\\base64_phpmailer');
 
