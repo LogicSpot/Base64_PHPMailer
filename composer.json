@@ -1,5 +1,5 @@
 {
-	"name": "logicspot/base64_email",
+	"name": "logicspot/base64_phpmailer",
 	"type": "wordpress-plugin",
 	"license": "GPL-2",
 	"description": "Sets PHPMailer to use base64 encoding.",
