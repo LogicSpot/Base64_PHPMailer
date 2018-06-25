@@ -2,7 +2,7 @@
 	"name": "logicspot/base64_phpmailer",
 	"type": "wordpress-plugin",
 	"license": "GPL-2",
-	"description": "Sets PHPMailer to use base64 encoding.",
+	"description": "Sets PHPMailer to use base64 encoding in WordPress.",
 	"version": "1.0.0",
 	"require": {
     	"composer/installers": "~1.0"

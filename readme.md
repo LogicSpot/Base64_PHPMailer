@@ -1,6 +1,6 @@
-# Base64 PHPMailer
+# Base64 PHPMailer - WordPress
 
-Sets PHPMailer to use Base64 encoding.
+Set WordPress PHPMailer class to use Base64 encoding.
 
 - Tested up to: 4.9.4
 - Requires PHP: 5.3.0

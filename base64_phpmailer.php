@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name:  Base64 Emails
-Plugin URI:
+Plugin URI:   https://github.com/LogicSpot/Base64_PHPMailer
 Description:  Sets PHPMailer to use base64 encoding.
 Version:      1.0.0
 Author:       LogicSpot
